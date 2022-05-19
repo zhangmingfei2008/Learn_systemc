@@ -14,4 +14,4 @@ SC_MODULE (and2) {
             sensitive << clk.pos();
     }
 
-}
+};
